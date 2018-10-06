@@ -25,5 +25,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Journals of Major-Gen. C. G. Gordon, C.B., at Kartoum.
 url: http://www.gutenberg.org/ebooks/49224
